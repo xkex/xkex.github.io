@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome into my world</title>
+    <link>http://xkex.github.io/</link>
+    <description>Recent content on welcome into my world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2023 17:57:46 +0100</lastBuildDate><atom:link href="http://xkex.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New_Site</title>
+      <link>http://xkex.github.io/posts/new_site/</link>
+      <pubDate>Thu, 26 Jan 2023 17:57:46 +0100</pubDate>
+      
+      <guid>http://xkex.github.io/posts/new_site/</guid>
+      <description>I have decided to give up the hassle of self-hosting my site, and also added hugo to my stack.</description>
+    </item>
+    
+  </channel>
+</rss>
